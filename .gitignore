@@ -1,5 +1,6 @@
 *.lock
 *.tex
+*.pdf
 
 # Added by cargo
 
