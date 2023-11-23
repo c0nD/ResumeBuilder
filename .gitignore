@@ -1,3 +1,7 @@
-__pycache__/
 *.lock
 *.tex
+*.pdf
+
+# Added by cargo
+
+/target
